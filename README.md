@@ -1,7 +1,7 @@
 ## My expirements on Airflow 
 
 
-## Airflow Installation and Setup
+### Airflow Installation and Setup
 - mkdir airflow-expirements
 - curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.7.3/docker-compose.yaml'
 - mkdir -p ./dags ./logs ./plugins ./config
