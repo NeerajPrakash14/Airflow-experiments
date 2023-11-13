@@ -10,7 +10,8 @@
 - docker-compose up airflow-init
 - docker-compose up -d
 
-// localhost:8080
+Access web-ui at  
+// 0.0.0.0:8080 //
 
 ---
 ### Using:
